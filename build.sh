@@ -8,4 +8,4 @@ python3 setup-omsdk.py bdist_wheel --universal
 rm -Rf /tmp/_version.txt
 rm -Rf build
 rm -Rf omsdk.egg-info
-python setup.py bdist_egg
+#python setup.py bdist_egg
